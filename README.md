@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=syHong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <br>
 
@@ -9,7 +9,7 @@
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>📧Email📧</Strong><br>sean1007@naver.com<br>
 
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
 반갑습니다👐<br>
-제 이름은 이고 백엔드를 공부하고 있어요!<br>
+제 이름은 홍세영이고 백엔드를 공부하고 있어요!<br>
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
 배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
 </p>
