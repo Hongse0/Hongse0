@@ -2,22 +2,12 @@
 
 <br>
 
-<p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://www.notion.so/4e4b656a99be4d79af8a2cbd9525d896" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
+
 <Strong>📧Email📧</Strong><br>hongseyoung981007@gmail.com<br>
 
-</p>
 
 <br>
 
-<p align="center">
-반갑습니다👐<br>
-제 이름은 홍세영이고 백엔드 개발자를 준비하고 있습니다.<br>
-</p>
 
 <br>
 
@@ -54,17 +44,7 @@
 </p>
 
 
-<p align="center">
-    💡Used at least once
-</p>
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
-</p>
+
 
 <br>
 
